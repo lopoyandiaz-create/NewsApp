@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="label_correo">Correo</string>
+    <string name="label_password">Contraseña</string>
+    <string name="hint_correo">name@example.com</string>
+    <string name="btn_ingresar">INGRESAR</string>
+    <string name="btn_registrar">REGISTRAR</string>
+    <string name="error_campos">Completa correo y contraseña</string>
+    <string name="titulo_noticias">Noticias</string>
+    <string name="noticia1_titulo">Apple Vision Pro</string>
+    <string name="noticia2_titulo">Meta Glasses</string>
+    <string name="titulo_compartir">Compartir noticia</string>
+    <string name="titulo_perfil">Perfil</string>
+    <string name="perfil_nombre">Chacon Martin</string>
+    <string name="perfil_ciudad">La Esperanza</string>
+    <string name="perfil_informacion">Información</string>
+    <string name="perfil_notificaciones">Notificaciones</string>
+    <string name="perfil_favoritos">Favoritos</string>
+    <string name="btn_cerrar_sesion">CERRAR SESION</string>
+    <string name="menu_privacidad">Privacidad</string>
+    <string name="menu_contactos">Contactos</string>
+    <string name="menu_central">Central</string>
+    <string name="titulo_privacidad">Privacidad</string>
+    <string name="titulo_contactos">Contactos</string>
+    <string name="contactos_subtitulo">Listado de Contactos</string>
+    <string name="menu_llamar">Llamar</string>
+    <string name="menu_enviar_mensaje">Enviar mensaje</string>
+    <string name="privacidad_subtitulo">Reglas de Privacidad</string>
+    <string name="menu_buscar">Buscar</string>
+    <string name="menu_correo">Correo</string>
+    <string name="correo_asunto">Consulta desde NewsApp</string>
+    <string name="privacidad_parrafo1">La Política se aplica a todos los datos personales que los usuarios proporcionen de manera directa o a través de una tercera persona (encargado) cuando éste actúe según las instrucciones del usuario.</string>
+    <string name="privacidad_parrafo2">Los datos personales de los usuarios que emplean nuestros canales web son almacenados en sus correspondientes bancos de datos, los cuales se encuentran registrados ante la Autoridad Nacional de Protección de Datos Personales.</string>
+    <string name="noticia_texto">This 80-foot-tall waterfall on the coast of Big Sur in central California that flows year-round from McWay Creek in Julia Pfeiffer Burns State Park, about 37 miles south of Carmel.</string>
+</resources>
